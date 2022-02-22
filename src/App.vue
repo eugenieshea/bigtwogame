@@ -86,10 +86,10 @@ export default {
     return {
       cardValue: 0.1,
       players: [
-        {name: "", score: '', owes: ''}, 
-        {name: "", score: '', owes: ''},
-        {name: "", score: '', owes: ''},
-        {name: "", score: '', owes: ''},
+        {name: "Daisy", score: '', owes: ''}, 
+        {name: "Sam", score: '', owes: ''},
+        {name: "Puggerino", score: '', owes: ''},
+        {name: "Eugenie", score: '', owes: ''},
       ],
     };
   },
